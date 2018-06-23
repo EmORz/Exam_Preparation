@@ -9,6 +9,7 @@ namespace MOBA
     {
         static void Main(string[] args)
         {
+            // ToDo Repair => only 50 points!
             Regex battle = new Regex("(vs)");
             Regex statistikForPlayer = new Regex("(->)");
 

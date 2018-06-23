@@ -1,70 +1,38 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text.RegularExpressions;
+using System.Numerics;
 
-namespace MOBA
+namespace RageExpenses
 {
     class Program
     {
         static void Main(string[] args)
         {
-            // ToDo Repair => only 50 points!
-            Regex battle = new Regex("(vs)");
-            Regex statistikForPlayer = new Regex("(->)");
+            int countLostGames = int.Parse(Console.ReadLine());
+            //
+            decimal headsetPrice = decimal.Parse(Console.ReadLine());
+            decimal mousePrice = decimal.Parse(Console.ReadLine());
+            decimal keyboardPrice = decimal.Parse(Console.ReadLine());
+            decimal displayPrice = decimal.Parse(Console.ReadLine());
 
-            Dictionary<string, Dictionary<List<string>, int>> statticData = new Dictionary<string, Dictionary<List<string>, int>>();
+            int headsetCount = countLostGames / 2;
+            int mouseCount = countLostGames / 3;
 
-            while (true)
+            int keyboardCount = 0;
+            int displays = 0;
+            for (int game = 1; game <= countLostGames; game++)
             {
-                string input = Console.ReadLine();
-                if (input == "Season end")
-                {
-                    break;
-                }
-                if (statistikForPlayer.Match(input).Success)
-                {
-                    string[] data = input.Split(new char[] { ' ', '-', '>'}, StringSplitOptions.RemoveEmptyEntries);
-                    string name = data[0];
-                    string position = data[1];
-                    List<string> temp = new List<string>();
-                    temp.Add(position);
-                    int skill = int.Parse(data[2]);
 
-                    if (!statticData.ContainsKey(name))
-                    {
-                        Dictionary<List<string>, int> current = new Dictionary<List<string>, int>();
-                        current.Add(temp, skill);
-                        statticData.Add(name, current);
-                    }
-                    if (!statticData[name].ContainsKey(temp))
-                    {
-                        statticData[name].Add(temp, skill);
-                    }
-                    if (statticData[name].ContainsKey(temp))
-                    {
-                        statticData[name][temp] = skill;
-
-                    }
-                }
-                if (battle.Match(input).Success)
+                if (game % 2 == 0 && game % 3 == 0)
                 {
-                    
+                    keyboardCount++;
+                    if (keyboardCount % 2 == 0)
+                    {
+                        displays++;
+                    }
                 }
             }
-            foreach (var item in statticData.OrderByDescending(x => x.Value.Values.Sum()))
-            {
-                var temp = 0;
-                foreach (var sum in item.Value)
-                {
-                    temp += sum.Value;
-                }
-                Console.WriteLine(item.Key+$": {temp} skill");
-                foreach (var i in item.Value.OrderByDescending(x => x.Value).ThenBy(y => y))
-                {
-                    Console.WriteLine("- "+i.Key+ " <::> " + i.Value);
-                }
-            }
+            decimal total = (headsetCount*headsetPrice)+(mouseCount*mousePrice)+(keyboardCount*keyboardPrice)+(displays*displayPrice);
+            Console.WriteLine($"Rage expenses: {total:f2} lv.");
         }
     }
 }

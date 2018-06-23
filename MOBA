@@ -9,11 +9,10 @@ namespace MOBA
     {
         static void Main(string[] args)
         {
-            //ToDo => 50 points!
             Regex battle = new Regex("(vs)");
             Regex statistikForPlayer = new Regex("(->)");
 
-            Dictionary<string, Dictionary<List<string>, int>> statticData = new Dictionary<string, Dictionary<List<string>, int>>();
+            Dictionary<string, Dictionary<string, int>> statticData = new Dictionary<string, Dictionary<string, int>>();
 
             while (true)
             {
@@ -27,29 +26,23 @@ namespace MOBA
                     string[] data = input.Split(new char[] { ' ', '-', '>'}, StringSplitOptions.RemoveEmptyEntries);
                     string name = data[0];
                     string position = data[1];
-                    List<string> temp = new List<string>();
-                    temp.Add(position);
                     int skill = int.Parse(data[2]);
 
                     if (!statticData.ContainsKey(name))
                     {
-                        Dictionary<List<string>, int> current = new Dictionary<List<string>, int>();
-                        current.Add(temp, skill);
+                        Dictionary<string, int> current = new Dictionary<string, int>();
+                        current.Add(position, skill);
                         statticData.Add(name, current);
                     }
-                    if (!statticData[name].ContainsKey(temp))
+                    if (!statticData[name].ContainsKey(position))
                     {
-                        statticData[name].Add(temp, skill);
+                        statticData[name].Add(position, skill);
                     }
-                    if (statticData[name].ContainsKey(temp))
-                    {
-                        statticData[name][temp] = skill;
-
-                    }
-                }
+                    statticData[name][position] = skill;
+                                    }
                 if (battle.Match(input).Success)
                 {
-                    
+
                 }
             }
             foreach (var item in statticData.OrderByDescending(x => x.Value.Values.Sum()))

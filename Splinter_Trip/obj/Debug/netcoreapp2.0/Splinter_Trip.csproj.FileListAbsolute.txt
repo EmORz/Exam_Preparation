@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\Exam_Preparation\Splinter_Trip\bin\Debug\netcoreapp2.0\Splinter_Trip.deps.json
+C:\Users\user\source\repos\Exam_Preparation\Splinter_Trip\bin\Debug\netcoreapp2.0\Splinter_Trip.runtimeconfig.json
+C:\Users\user\source\repos\Exam_Preparation\Splinter_Trip\bin\Debug\netcoreapp2.0\Splinter_Trip.runtimeconfig.dev.json
+C:\Users\user\source\repos\Exam_Preparation\Splinter_Trip\bin\Debug\netcoreapp2.0\Splinter_Trip.dll
+C:\Users\user\source\repos\Exam_Preparation\Splinter_Trip\bin\Debug\netcoreapp2.0\Splinter_Trip.pdb
+C:\Users\user\source\repos\Exam_Preparation\Splinter_Trip\obj\Debug\netcoreapp2.0\Splinter_Trip.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Exam_Preparation\Splinter_Trip\obj\Debug\netcoreapp2.0\Splinter_Trip.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Exam_Preparation\Splinter_Trip\obj\Debug\netcoreapp2.0\Splinter_Trip.AssemblyInfo.cs
+C:\Users\user\source\repos\Exam_Preparation\Splinter_Trip\obj\Debug\netcoreapp2.0\Splinter_Trip.dll
+C:\Users\user\source\repos\Exam_Preparation\Splinter_Trip\obj\Debug\netcoreapp2.0\Splinter_Trip.pdb

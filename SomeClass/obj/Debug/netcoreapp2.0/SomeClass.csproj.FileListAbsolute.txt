@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\Exam_Preparation\SomeClass\bin\Debug\netcoreapp2.0\SomeClass.deps.json
+C:\Users\user\source\repos\Exam_Preparation\SomeClass\bin\Debug\netcoreapp2.0\SomeClass.runtimeconfig.json
+C:\Users\user\source\repos\Exam_Preparation\SomeClass\bin\Debug\netcoreapp2.0\SomeClass.runtimeconfig.dev.json
+C:\Users\user\source\repos\Exam_Preparation\SomeClass\bin\Debug\netcoreapp2.0\SomeClass.dll
+C:\Users\user\source\repos\Exam_Preparation\SomeClass\bin\Debug\netcoreapp2.0\SomeClass.pdb
+C:\Users\user\source\repos\Exam_Preparation\SomeClass\obj\Debug\netcoreapp2.0\SomeClass.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\Exam_Preparation\SomeClass\obj\Debug\netcoreapp2.0\SomeClass.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Exam_Preparation\SomeClass\obj\Debug\netcoreapp2.0\SomeClass.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Exam_Preparation\SomeClass\obj\Debug\netcoreapp2.0\SomeClass.AssemblyInfo.cs
+C:\Users\user\source\repos\Exam_Preparation\SomeClass\obj\Debug\netcoreapp2.0\SomeClass.dll
+C:\Users\user\source\repos\Exam_Preparation\SomeClass\obj\Debug\netcoreapp2.0\SomeClass.pdb

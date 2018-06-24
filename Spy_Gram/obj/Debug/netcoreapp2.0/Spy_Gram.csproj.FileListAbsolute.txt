@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\Exam_Preparation\Spy_Gram\bin\Debug\netcoreapp2.0\Spy_Gram.deps.json
+C:\Users\user\source\repos\Exam_Preparation\Spy_Gram\bin\Debug\netcoreapp2.0\Spy_Gram.runtimeconfig.json
+C:\Users\user\source\repos\Exam_Preparation\Spy_Gram\bin\Debug\netcoreapp2.0\Spy_Gram.runtimeconfig.dev.json
+C:\Users\user\source\repos\Exam_Preparation\Spy_Gram\bin\Debug\netcoreapp2.0\Spy_Gram.dll
+C:\Users\user\source\repos\Exam_Preparation\Spy_Gram\bin\Debug\netcoreapp2.0\Spy_Gram.pdb
+C:\Users\user\source\repos\Exam_Preparation\Spy_Gram\obj\Debug\netcoreapp2.0\Spy_Gram.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\Exam_Preparation\Spy_Gram\obj\Debug\netcoreapp2.0\Spy_Gram.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Exam_Preparation\Spy_Gram\obj\Debug\netcoreapp2.0\Spy_Gram.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Exam_Preparation\Spy_Gram\obj\Debug\netcoreapp2.0\Spy_Gram.AssemblyInfo.cs
+C:\Users\user\source\repos\Exam_Preparation\Spy_Gram\obj\Debug\netcoreapp2.0\Spy_Gram.dll
+C:\Users\user\source\repos\Exam_Preparation\Spy_Gram\obj\Debug\netcoreapp2.0\Spy_Gram.pdb

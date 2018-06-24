@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\Exam_Preparation\TseamAccount\bin\Debug\netcoreapp2.0\TseamAccount.deps.json
+C:\Users\user\source\repos\Exam_Preparation\TseamAccount\bin\Debug\netcoreapp2.0\TseamAccount.runtimeconfig.json
+C:\Users\user\source\repos\Exam_Preparation\TseamAccount\bin\Debug\netcoreapp2.0\TseamAccount.runtimeconfig.dev.json
+C:\Users\user\source\repos\Exam_Preparation\TseamAccount\bin\Debug\netcoreapp2.0\TseamAccount.dll
+C:\Users\user\source\repos\Exam_Preparation\TseamAccount\bin\Debug\netcoreapp2.0\TseamAccount.pdb
+C:\Users\user\source\repos\Exam_Preparation\TseamAccount\obj\Debug\netcoreapp2.0\TseamAccount.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\Exam_Preparation\TseamAccount\obj\Debug\netcoreapp2.0\TseamAccount.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Exam_Preparation\TseamAccount\obj\Debug\netcoreapp2.0\TseamAccount.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Exam_Preparation\TseamAccount\obj\Debug\netcoreapp2.0\TseamAccount.AssemblyInfo.cs
+C:\Users\user\source\repos\Exam_Preparation\TseamAccount\obj\Debug\netcoreapp2.0\TseamAccount.dll
+C:\Users\user\source\repos\Exam_Preparation\TseamAccount\obj\Debug\netcoreapp2.0\TseamAccount.pdb

@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\Exam_Preparation\SoftUniKaraoke\bin\Debug\netcoreapp2.0\SoftUniKaraoke.deps.json
+C:\Users\user\source\repos\Exam_Preparation\SoftUniKaraoke\bin\Debug\netcoreapp2.0\SoftUniKaraoke.runtimeconfig.json
+C:\Users\user\source\repos\Exam_Preparation\SoftUniKaraoke\bin\Debug\netcoreapp2.0\SoftUniKaraoke.runtimeconfig.dev.json
+C:\Users\user\source\repos\Exam_Preparation\SoftUniKaraoke\bin\Debug\netcoreapp2.0\SoftUniKaraoke.dll
+C:\Users\user\source\repos\Exam_Preparation\SoftUniKaraoke\bin\Debug\netcoreapp2.0\SoftUniKaraoke.pdb
+C:\Users\user\source\repos\Exam_Preparation\SoftUniKaraoke\obj\Debug\netcoreapp2.0\SoftUniKaraoke.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\Exam_Preparation\SoftUniKaraoke\obj\Debug\netcoreapp2.0\SoftUniKaraoke.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Exam_Preparation\SoftUniKaraoke\obj\Debug\netcoreapp2.0\SoftUniKaraoke.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Exam_Preparation\SoftUniKaraoke\obj\Debug\netcoreapp2.0\SoftUniKaraoke.AssemblyInfo.cs
+C:\Users\user\source\repos\Exam_Preparation\SoftUniKaraoke\obj\Debug\netcoreapp2.0\SoftUniKaraoke.dll
+C:\Users\user\source\repos\Exam_Preparation\SoftUniKaraoke\obj\Debug\netcoreapp2.0\SoftUniKaraoke.pdb

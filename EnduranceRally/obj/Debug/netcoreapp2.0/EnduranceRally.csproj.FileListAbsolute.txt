@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\Exam_Preparation\EnduranceRally\bin\Debug\netcoreapp2.0\EnduranceRally.deps.json
+C:\Users\user\source\repos\Exam_Preparation\EnduranceRally\bin\Debug\netcoreapp2.0\EnduranceRally.runtimeconfig.json
+C:\Users\user\source\repos\Exam_Preparation\EnduranceRally\bin\Debug\netcoreapp2.0\EnduranceRally.runtimeconfig.dev.json
+C:\Users\user\source\repos\Exam_Preparation\EnduranceRally\bin\Debug\netcoreapp2.0\EnduranceRally.dll
+C:\Users\user\source\repos\Exam_Preparation\EnduranceRally\bin\Debug\netcoreapp2.0\EnduranceRally.pdb
+C:\Users\user\source\repos\Exam_Preparation\EnduranceRally\obj\Debug\netcoreapp2.0\EnduranceRally.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Exam_Preparation\EnduranceRally\obj\Debug\netcoreapp2.0\EnduranceRally.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Exam_Preparation\EnduranceRally\obj\Debug\netcoreapp2.0\EnduranceRally.AssemblyInfo.cs
+C:\Users\user\source\repos\Exam_Preparation\EnduranceRally\obj\Debug\netcoreapp2.0\EnduranceRally.dll
+C:\Users\user\source\repos\Exam_Preparation\EnduranceRally\obj\Debug\netcoreapp2.0\EnduranceRally.pdb
+C:\Users\user\source\repos\Exam_Preparation\EnduranceRally\obj\Debug\netcoreapp2.0\EnduranceRally.csprojResolveAssemblyReference.cache

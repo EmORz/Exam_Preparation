@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\Exam_Preparation\Spyfer\bin\Debug\netcoreapp2.0\Spyfer.deps.json
+C:\Users\user\source\repos\Exam_Preparation\Spyfer\bin\Debug\netcoreapp2.0\Spyfer.runtimeconfig.json
+C:\Users\user\source\repos\Exam_Preparation\Spyfer\bin\Debug\netcoreapp2.0\Spyfer.runtimeconfig.dev.json
+C:\Users\user\source\repos\Exam_Preparation\Spyfer\bin\Debug\netcoreapp2.0\Spyfer.dll
+C:\Users\user\source\repos\Exam_Preparation\Spyfer\bin\Debug\netcoreapp2.0\Spyfer.pdb
+C:\Users\user\source\repos\Exam_Preparation\Spyfer\obj\Debug\netcoreapp2.0\Spyfer.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\Exam_Preparation\Spyfer\obj\Debug\netcoreapp2.0\Spyfer.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Exam_Preparation\Spyfer\obj\Debug\netcoreapp2.0\Spyfer.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Exam_Preparation\Spyfer\obj\Debug\netcoreapp2.0\Spyfer.AssemblyInfo.cs
+C:\Users\user\source\repos\Exam_Preparation\Spyfer\obj\Debug\netcoreapp2.0\Spyfer.dll
+C:\Users\user\source\repos\Exam_Preparation\Spyfer\obj\Debug\netcoreapp2.0\Spyfer.pdb

@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\Exam_Preparation\HornetAssault\bin\Debug\netcoreapp2.0\HornetAssault.deps.json
+C:\Users\user\source\repos\Exam_Preparation\HornetAssault\bin\Debug\netcoreapp2.0\HornetAssault.runtimeconfig.json
+C:\Users\user\source\repos\Exam_Preparation\HornetAssault\bin\Debug\netcoreapp2.0\HornetAssault.runtimeconfig.dev.json
+C:\Users\user\source\repos\Exam_Preparation\HornetAssault\bin\Debug\netcoreapp2.0\HornetAssault.dll
+C:\Users\user\source\repos\Exam_Preparation\HornetAssault\bin\Debug\netcoreapp2.0\HornetAssault.pdb
+C:\Users\user\source\repos\Exam_Preparation\HornetAssault\obj\Debug\netcoreapp2.0\HornetAssault.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\Exam_Preparation\HornetAssault\obj\Debug\netcoreapp2.0\HornetAssault.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Exam_Preparation\HornetAssault\obj\Debug\netcoreapp2.0\HornetAssault.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Exam_Preparation\HornetAssault\obj\Debug\netcoreapp2.0\HornetAssault.AssemblyInfo.cs
+C:\Users\user\source\repos\Exam_Preparation\HornetAssault\obj\Debug\netcoreapp2.0\HornetAssault.dll
+C:\Users\user\source\repos\Exam_Preparation\HornetAssault\obj\Debug\netcoreapp2.0\HornetAssault.pdb

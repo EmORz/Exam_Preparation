@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\Exam_Preparation\NSA\bin\Debug\netcoreapp2.0\NSA.deps.json
+C:\Users\user\source\repos\Exam_Preparation\NSA\bin\Debug\netcoreapp2.0\NSA.runtimeconfig.json
+C:\Users\user\source\repos\Exam_Preparation\NSA\bin\Debug\netcoreapp2.0\NSA.runtimeconfig.dev.json
+C:\Users\user\source\repos\Exam_Preparation\NSA\bin\Debug\netcoreapp2.0\NSA.dll
+C:\Users\user\source\repos\Exam_Preparation\NSA\bin\Debug\netcoreapp2.0\NSA.pdb
+C:\Users\user\source\repos\Exam_Preparation\NSA\obj\Debug\netcoreapp2.0\NSA.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\Exam_Preparation\NSA\obj\Debug\netcoreapp2.0\NSA.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Exam_Preparation\NSA\obj\Debug\netcoreapp2.0\NSA.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Exam_Preparation\NSA\obj\Debug\netcoreapp2.0\NSA.AssemblyInfo.cs
+C:\Users\user\source\repos\Exam_Preparation\NSA\obj\Debug\netcoreapp2.0\NSA.dll
+C:\Users\user\source\repos\Exam_Preparation\NSA\obj\Debug\netcoreapp2.0\NSA.pdb

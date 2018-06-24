@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\Exam_Preparation\LadyBug\bin\Debug\netcoreapp2.0\LadyBug.deps.json
+C:\Users\user\source\repos\Exam_Preparation\LadyBug\bin\Debug\netcoreapp2.0\LadyBug.runtimeconfig.json
+C:\Users\user\source\repos\Exam_Preparation\LadyBug\bin\Debug\netcoreapp2.0\LadyBug.runtimeconfig.dev.json
+C:\Users\user\source\repos\Exam_Preparation\LadyBug\bin\Debug\netcoreapp2.0\LadyBug.dll
+C:\Users\user\source\repos\Exam_Preparation\LadyBug\bin\Debug\netcoreapp2.0\LadyBug.pdb
+C:\Users\user\source\repos\Exam_Preparation\LadyBug\obj\Debug\netcoreapp2.0\LadyBug.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\Exam_Preparation\LadyBug\obj\Debug\netcoreapp2.0\LadyBug.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Exam_Preparation\LadyBug\obj\Debug\netcoreapp2.0\LadyBug.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Exam_Preparation\LadyBug\obj\Debug\netcoreapp2.0\LadyBug.AssemblyInfo.cs
+C:\Users\user\source\repos\Exam_Preparation\LadyBug\obj\Debug\netcoreapp2.0\LadyBug.dll
+C:\Users\user\source\repos\Exam_Preparation\LadyBug\obj\Debug\netcoreapp2.0\LadyBug.pdb

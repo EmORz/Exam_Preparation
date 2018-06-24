@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\Exam_Preparation\Raincast\bin\Debug\netcoreapp2.0\Raincast.deps.json
+C:\Users\user\source\repos\Exam_Preparation\Raincast\bin\Debug\netcoreapp2.0\Raincast.runtimeconfig.json
+C:\Users\user\source\repos\Exam_Preparation\Raincast\bin\Debug\netcoreapp2.0\Raincast.runtimeconfig.dev.json
+C:\Users\user\source\repos\Exam_Preparation\Raincast\bin\Debug\netcoreapp2.0\Raincast.dll
+C:\Users\user\source\repos\Exam_Preparation\Raincast\bin\Debug\netcoreapp2.0\Raincast.pdb
+C:\Users\user\source\repos\Exam_Preparation\Raincast\obj\Debug\netcoreapp2.0\Raincast.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\Exam_Preparation\Raincast\obj\Debug\netcoreapp2.0\Raincast.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Exam_Preparation\Raincast\obj\Debug\netcoreapp2.0\Raincast.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Exam_Preparation\Raincast\obj\Debug\netcoreapp2.0\Raincast.AssemblyInfo.cs
+C:\Users\user\source\repos\Exam_Preparation\Raincast\obj\Debug\netcoreapp2.0\Raincast.dll
+C:\Users\user\source\repos\Exam_Preparation\Raincast\obj\Debug\netcoreapp2.0\Raincast.pdb

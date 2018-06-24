@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\Exam_Preparation\p02\bin\Debug\netcoreapp2.0\p02.deps.json
+C:\Users\user\source\repos\Exam_Preparation\p02\bin\Debug\netcoreapp2.0\p02.runtimeconfig.json
+C:\Users\user\source\repos\Exam_Preparation\p02\bin\Debug\netcoreapp2.0\p02.runtimeconfig.dev.json
+C:\Users\user\source\repos\Exam_Preparation\p02\bin\Debug\netcoreapp2.0\p02.dll
+C:\Users\user\source\repos\Exam_Preparation\p02\bin\Debug\netcoreapp2.0\p02.pdb
+C:\Users\user\source\repos\Exam_Preparation\p02\obj\Debug\netcoreapp2.0\p02.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Exam_Preparation\p02\obj\Debug\netcoreapp2.0\p02.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Exam_Preparation\p02\obj\Debug\netcoreapp2.0\p02.AssemblyInfo.cs
+C:\Users\user\source\repos\Exam_Preparation\p02\obj\Debug\netcoreapp2.0\p02.dll
+C:\Users\user\source\repos\Exam_Preparation\p02\obj\Debug\netcoreapp2.0\p02.pdb

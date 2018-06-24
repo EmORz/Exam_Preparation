@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\Exam_Preparation\MOBA\bin\Debug\netcoreapp2.0\MOBA.deps.json
+C:\Users\user\source\repos\Exam_Preparation\MOBA\bin\Debug\netcoreapp2.0\MOBA.runtimeconfig.json
+C:\Users\user\source\repos\Exam_Preparation\MOBA\bin\Debug\netcoreapp2.0\MOBA.runtimeconfig.dev.json
+C:\Users\user\source\repos\Exam_Preparation\MOBA\bin\Debug\netcoreapp2.0\MOBA.dll
+C:\Users\user\source\repos\Exam_Preparation\MOBA\bin\Debug\netcoreapp2.0\MOBA.pdb
+C:\Users\user\source\repos\Exam_Preparation\MOBA\obj\Debug\netcoreapp2.0\MOBA.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Exam_Preparation\MOBA\obj\Debug\netcoreapp2.0\MOBA.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Exam_Preparation\MOBA\obj\Debug\netcoreapp2.0\MOBA.AssemblyInfo.cs
+C:\Users\user\source\repos\Exam_Preparation\MOBA\obj\Debug\netcoreapp2.0\MOBA.dll
+C:\Users\user\source\repos\Exam_Preparation\MOBA\obj\Debug\netcoreapp2.0\MOBA.pdb
+C:\Users\user\source\repos\Exam_Preparation\MOBA\obj\Debug\netcoreapp2.0\MOBA.csprojResolveAssemblyReference.cache

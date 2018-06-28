@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Exam_Preparation_2\AnonymouseTreat\bin\Debug\netcoreapp2.0\AnonymouseTreat.deps.json
+C:\Users\User\source\repos\Exam_Preparation_2\AnonymouseTreat\bin\Debug\netcoreapp2.0\AnonymouseTreat.runtimeconfig.json
+C:\Users\User\source\repos\Exam_Preparation_2\AnonymouseTreat\bin\Debug\netcoreapp2.0\AnonymouseTreat.runtimeconfig.dev.json
+C:\Users\User\source\repos\Exam_Preparation_2\AnonymouseTreat\bin\Debug\netcoreapp2.0\AnonymouseTreat.dll
+C:\Users\User\source\repos\Exam_Preparation_2\AnonymouseTreat\bin\Debug\netcoreapp2.0\AnonymouseTreat.pdb
+C:\Users\User\source\repos\Exam_Preparation_2\AnonymouseTreat\obj\Debug\netcoreapp2.0\AnonymouseTreat.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Exam_Preparation_2\AnonymouseTreat\obj\Debug\netcoreapp2.0\AnonymouseTreat.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Exam_Preparation_2\AnonymouseTreat\obj\Debug\netcoreapp2.0\AnonymouseTreat.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Exam_Preparation_2\AnonymouseTreat\obj\Debug\netcoreapp2.0\AnonymouseTreat.AssemblyInfo.cs
+C:\Users\User\source\repos\Exam_Preparation_2\AnonymouseTreat\obj\Debug\netcoreapp2.0\AnonymouseTreat.dll
+C:\Users\User\source\repos\Exam_Preparation_2\AnonymouseTreat\obj\Debug\netcoreapp2.0\AnonymouseTreat.pdb

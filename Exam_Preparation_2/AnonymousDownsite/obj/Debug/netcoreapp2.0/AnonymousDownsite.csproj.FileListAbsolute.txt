@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Exam_Preparation_2\AnonymousDownsite\bin\Debug\netcoreapp2.0\AnonymousDownsite.deps.json
+C:\Users\User\source\repos\Exam_Preparation_2\AnonymousDownsite\bin\Debug\netcoreapp2.0\AnonymousDownsite.runtimeconfig.json
+C:\Users\User\source\repos\Exam_Preparation_2\AnonymousDownsite\bin\Debug\netcoreapp2.0\AnonymousDownsite.runtimeconfig.dev.json
+C:\Users\User\source\repos\Exam_Preparation_2\AnonymousDownsite\bin\Debug\netcoreapp2.0\AnonymousDownsite.dll
+C:\Users\User\source\repos\Exam_Preparation_2\AnonymousDownsite\bin\Debug\netcoreapp2.0\AnonymousDownsite.pdb
+C:\Users\User\source\repos\Exam_Preparation_2\AnonymousDownsite\obj\Debug\netcoreapp2.0\AnonymousDownsite.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Exam_Preparation_2\AnonymousDownsite\obj\Debug\netcoreapp2.0\AnonymousDownsite.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Exam_Preparation_2\AnonymousDownsite\obj\Debug\netcoreapp2.0\AnonymousDownsite.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Exam_Preparation_2\AnonymousDownsite\obj\Debug\netcoreapp2.0\AnonymousDownsite.AssemblyInfo.cs
+C:\Users\User\source\repos\Exam_Preparation_2\AnonymousDownsite\obj\Debug\netcoreapp2.0\AnonymousDownsite.dll
+C:\Users\User\source\repos\Exam_Preparation_2\AnonymousDownsite\obj\Debug\netcoreapp2.0\AnonymousDownsite.pdb

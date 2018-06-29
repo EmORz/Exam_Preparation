@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Exam_Preparation_2\Forcebook\bin\Debug\netcoreapp2.0\Forcebook.deps.json
+C:\Users\User\source\repos\Exam_Preparation_2\Forcebook\bin\Debug\netcoreapp2.0\Forcebook.runtimeconfig.json
+C:\Users\User\source\repos\Exam_Preparation_2\Forcebook\bin\Debug\netcoreapp2.0\Forcebook.runtimeconfig.dev.json
+C:\Users\User\source\repos\Exam_Preparation_2\Forcebook\bin\Debug\netcoreapp2.0\Forcebook.dll
+C:\Users\User\source\repos\Exam_Preparation_2\Forcebook\bin\Debug\netcoreapp2.0\Forcebook.pdb
+C:\Users\User\source\repos\Exam_Preparation_2\Forcebook\obj\Debug\netcoreapp2.0\Forcebook.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Exam_Preparation_2\Forcebook\obj\Debug\netcoreapp2.0\Forcebook.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Exam_Preparation_2\Forcebook\obj\Debug\netcoreapp2.0\Forcebook.AssemblyInfo.cs
+C:\Users\User\source\repos\Exam_Preparation_2\Forcebook\obj\Debug\netcoreapp2.0\Forcebook.dll
+C:\Users\User\source\repos\Exam_Preparation_2\Forcebook\obj\Debug\netcoreapp2.0\Forcebook.pdb
+C:\Users\User\source\repos\Exam_Preparation_2\Forcebook\obj\Debug\netcoreapp2.0\Forcebook.csprojAssemblyReference.cache

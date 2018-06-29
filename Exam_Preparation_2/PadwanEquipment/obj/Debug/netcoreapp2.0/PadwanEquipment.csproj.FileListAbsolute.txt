@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Exam_Preparation_2\PadwanEquipment\bin\Debug\netcoreapp2.0\PadwanEquipment.deps.json
+C:\Users\User\source\repos\Exam_Preparation_2\PadwanEquipment\bin\Debug\netcoreapp2.0\PadwanEquipment.runtimeconfig.json
+C:\Users\User\source\repos\Exam_Preparation_2\PadwanEquipment\bin\Debug\netcoreapp2.0\PadwanEquipment.runtimeconfig.dev.json
+C:\Users\User\source\repos\Exam_Preparation_2\PadwanEquipment\bin\Debug\netcoreapp2.0\PadwanEquipment.dll
+C:\Users\User\source\repos\Exam_Preparation_2\PadwanEquipment\bin\Debug\netcoreapp2.0\PadwanEquipment.pdb
+C:\Users\User\source\repos\Exam_Preparation_2\PadwanEquipment\obj\Debug\netcoreapp2.0\PadwanEquipment.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Exam_Preparation_2\PadwanEquipment\obj\Debug\netcoreapp2.0\PadwanEquipment.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Exam_Preparation_2\PadwanEquipment\obj\Debug\netcoreapp2.0\PadwanEquipment.AssemblyInfo.cs
+C:\Users\User\source\repos\Exam_Preparation_2\PadwanEquipment\obj\Debug\netcoreapp2.0\PadwanEquipment.dll
+C:\Users\User\source\repos\Exam_Preparation_2\PadwanEquipment\obj\Debug\netcoreapp2.0\PadwanEquipment.pdb

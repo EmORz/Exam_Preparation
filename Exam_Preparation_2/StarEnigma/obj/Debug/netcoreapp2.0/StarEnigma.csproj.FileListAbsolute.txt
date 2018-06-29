@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Exam_Preparation_2\StarEnigma\bin\Debug\netcoreapp2.0\StarEnigma.deps.json
+C:\Users\User\source\repos\Exam_Preparation_2\StarEnigma\bin\Debug\netcoreapp2.0\StarEnigma.runtimeconfig.json
+C:\Users\User\source\repos\Exam_Preparation_2\StarEnigma\bin\Debug\netcoreapp2.0\StarEnigma.runtimeconfig.dev.json
+C:\Users\User\source\repos\Exam_Preparation_2\StarEnigma\bin\Debug\netcoreapp2.0\StarEnigma.dll
+C:\Users\User\source\repos\Exam_Preparation_2\StarEnigma\bin\Debug\netcoreapp2.0\StarEnigma.pdb
+C:\Users\User\source\repos\Exam_Preparation_2\StarEnigma\obj\Debug\netcoreapp2.0\StarEnigma.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Exam_Preparation_2\StarEnigma\obj\Debug\netcoreapp2.0\StarEnigma.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Exam_Preparation_2\StarEnigma\obj\Debug\netcoreapp2.0\StarEnigma.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Exam_Preparation_2\StarEnigma\obj\Debug\netcoreapp2.0\StarEnigma.AssemblyInfo.cs
+C:\Users\User\source\repos\Exam_Preparation_2\StarEnigma\obj\Debug\netcoreapp2.0\StarEnigma.dll
+C:\Users\User\source\repos\Exam_Preparation_2\StarEnigma\obj\Debug\netcoreapp2.0\StarEnigma.pdb

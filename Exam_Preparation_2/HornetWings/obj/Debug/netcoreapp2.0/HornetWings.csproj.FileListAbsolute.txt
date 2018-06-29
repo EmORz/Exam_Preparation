@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Exam_Preparation_2\HornetWings\bin\Debug\netcoreapp2.0\HornetWings.deps.json
+C:\Users\User\source\repos\Exam_Preparation_2\HornetWings\bin\Debug\netcoreapp2.0\HornetWings.runtimeconfig.json
+C:\Users\User\source\repos\Exam_Preparation_2\HornetWings\bin\Debug\netcoreapp2.0\HornetWings.runtimeconfig.dev.json
+C:\Users\User\source\repos\Exam_Preparation_2\HornetWings\bin\Debug\netcoreapp2.0\HornetWings.dll
+C:\Users\User\source\repos\Exam_Preparation_2\HornetWings\bin\Debug\netcoreapp2.0\HornetWings.pdb
+C:\Users\User\source\repos\Exam_Preparation_2\HornetWings\obj\Debug\netcoreapp2.0\HornetWings.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Exam_Preparation_2\HornetWings\obj\Debug\netcoreapp2.0\HornetWings.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Exam_Preparation_2\HornetWings\obj\Debug\netcoreapp2.0\HornetWings.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Exam_Preparation_2\HornetWings\obj\Debug\netcoreapp2.0\HornetWings.AssemblyInfo.cs
+C:\Users\User\source\repos\Exam_Preparation_2\HornetWings\obj\Debug\netcoreapp2.0\HornetWings.dll
+C:\Users\User\source\repos\Exam_Preparation_2\HornetWings\obj\Debug\netcoreapp2.0\HornetWings.pdb

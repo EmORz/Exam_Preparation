@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Exam_Preparation_2\HornetComm\bin\Debug\netcoreapp2.0\HornetComm.deps.json
+C:\Users\User\source\repos\Exam_Preparation_2\HornetComm\bin\Debug\netcoreapp2.0\HornetComm.runtimeconfig.json
+C:\Users\User\source\repos\Exam_Preparation_2\HornetComm\bin\Debug\netcoreapp2.0\HornetComm.runtimeconfig.dev.json
+C:\Users\User\source\repos\Exam_Preparation_2\HornetComm\bin\Debug\netcoreapp2.0\HornetComm.dll
+C:\Users\User\source\repos\Exam_Preparation_2\HornetComm\bin\Debug\netcoreapp2.0\HornetComm.pdb
+C:\Users\User\source\repos\Exam_Preparation_2\HornetComm\obj\Debug\netcoreapp2.0\HornetComm.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Exam_Preparation_2\HornetComm\obj\Debug\netcoreapp2.0\HornetComm.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Exam_Preparation_2\HornetComm\obj\Debug\netcoreapp2.0\HornetComm.AssemblyInfo.cs
+C:\Users\User\source\repos\Exam_Preparation_2\HornetComm\obj\Debug\netcoreapp2.0\HornetComm.dll
+C:\Users\User\source\repos\Exam_Preparation_2\HornetComm\obj\Debug\netcoreapp2.0\HornetComm.pdb
+C:\Users\User\source\repos\Exam_Preparation_2\HornetComm\obj\Debug\netcoreapp2.0\HornetComm.csprojAssemblyReference.cache

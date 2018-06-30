@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Exam_Preparation_2\HornetArmada\bin\Debug\netcoreapp2.0\HornetArmada.deps.json
+C:\Users\User\source\repos\Exam_Preparation_2\HornetArmada\bin\Debug\netcoreapp2.0\HornetArmada.runtimeconfig.json
+C:\Users\User\source\repos\Exam_Preparation_2\HornetArmada\bin\Debug\netcoreapp2.0\HornetArmada.runtimeconfig.dev.json
+C:\Users\User\source\repos\Exam_Preparation_2\HornetArmada\bin\Debug\netcoreapp2.0\HornetArmada.dll
+C:\Users\User\source\repos\Exam_Preparation_2\HornetArmada\bin\Debug\netcoreapp2.0\HornetArmada.pdb
+C:\Users\User\source\repos\Exam_Preparation_2\HornetArmada\obj\Debug\netcoreapp2.0\HornetArmada.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Exam_Preparation_2\HornetArmada\obj\Debug\netcoreapp2.0\HornetArmada.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Exam_Preparation_2\HornetArmada\obj\Debug\netcoreapp2.0\HornetArmada.AssemblyInfo.cs
+C:\Users\User\source\repos\Exam_Preparation_2\HornetArmada\obj\Debug\netcoreapp2.0\HornetArmada.dll
+C:\Users\User\source\repos\Exam_Preparation_2\HornetArmada\obj\Debug\netcoreapp2.0\HornetArmada.pdb
+C:\Users\User\source\repos\Exam_Preparation_2\HornetArmada\obj\Debug\netcoreapp2.0\HornetArmada.csprojAssemblyReference.cache
